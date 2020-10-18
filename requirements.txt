@@ -1,0 +1,6 @@
+pandas
+github
+pyyaml
+matplotlib
+numpy
+wordcloud
