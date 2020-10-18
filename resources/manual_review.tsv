@@ -1,0 +1,400 @@
+Project	Security	Tools
+18F/jekyll_pages_api_search	0	
+20c/vaping	0	
+23andMe/seqseek	0	
+3scale/3scale_ws_api_for_nodejs	0	
+47deg/sbt-org-policies	1	Sonatype
+abinit/abipy	0	
+activebridge/lazybox	0	
+AckeeCZ/ReactiveLocation	0	
+AdguardTeam/AdGuardHome	0	
+adobe/aem-spa-project-archetype	1	Sonatype
+adobe-photoshop/generator-assets	0	
+adorsys/document-scanner-ios	0	
+Adyen/adyen-dotnet-api-library	1	CodeQL
+Adyen/adyen-java-api-library	1	CodeQL
+agilie/PXSDK	0	
+agiliq/Django-parsley	1	Dependabot
+airbnb/react-component-variations	0	
+airbnb/streamalert	1	Bandit
+alfa-laboratory/akita	0	
+algolia/atom-autocomplete-module-import	0	
+akveo/react-native-ui-kitten	0	
+amzn/ion-c	0	
+apache/helix	0	
+apache/reef	0	
+appscode/kutil	0	
+appunite/mockery	0	
+arangodb/velocypack	0	
+aristanetworks/goarista	0	
+asilvas/node-image-steam	0	
+atomist/rug	0	
+auth0/disyuntor	0	
+auth0/node-baas	0	
+aws/amazon-ssm-agent	0	
+awslabs/aws-delivlib	1	Dependabot
+awslabs/cfn-python-lint	0	
+awslabs/cfncluster-cookbook	1	Bandit
+awslabs/deequ	0	
+Axosoft/git-rs	0	
+Azure/azure-cosmos-dotnet-v3	0	
+Azure/azure-sdk-for-php	0	
+Azure/buffalo-azure	0	
+Azure/service-fabric-cli	0	
+Azure/service-fabric-services-and-actors-dotnet	0	
+bagisto/bagisto	0	
+Bahmni/OpenElis	0	
+bamlab/react-native-formik	0	
+basecamp/bc3-integrations	0	
+basecamp/pow	0	
+BBC-News/crimp	0	
+beecloud/beecloud-java	0	
+Berico-Technologies/RabbidManagement	0	
+binduwavell/generator-alfresco	0	
+BinPar/jest-gql	0	
+bitnami-labs/kubewatch	0	
+BoLT/boltforms	0	
+box/leche	0	
+brandingbrand/flagship	1	Dependabot
+bullhorn/sdk-rest	0	
+caelum/caelum-stella	0	
+caelum/mamute	1	Dependabot
+camptocamp/bivac	0	
+camptocamp/conplicity	0	
+camunda/camunda-external-task-client-java	0	
+CanalTP/navitia-docker-compose	0	
+canjs/can-ndjson-stream	0	
+CartoDB/cartodb	1	Rubocop
+CartoDB/CartoDB-basemaps	0	
+Catalysts/cat-boot	0	
+Ceed/Laghos	0	
+CenterForOpenScience/ember-osf-web	0	
+cisco/openh264	0	
+citusdata/django-multitenant	0	
+clearmatics/ion	0	
+cloudant/swift-cloudant	0	
+cloudendpoints/endpoints-java	0	
+cloudinary/cloudinary_npm	0	
+cloudinary/cloudinary_php	0	
+cloudinary/cloudinary-vue	0	
+cocaine/cocaine-core	0	
+cocaine/cocaine-plugins	0	
+codeclimate/javascript-test-reporter	1	Dependabot
+Collaborne/paper-collapse-item	0	
+Collaborne/paper-fab-speed-dial	0	
+connectbot/connectbot	1	Coverity
+ContinuumIO/ciocheck	0	
+Cox-Automotive/ALKS-CLI	0	
+criteo-forks/xgboost-jars	0	
+dabapps/django-private-views	0	
+dart-lang/json_serializable	1	Dart Analyzer
+dart-lang/linter	0	
+dart-lang/logging	1	Dart Analyzer
+dbdd4us/qcloudapi-sdk-go	0	
+demoiselle/framework	1	Sonar
+descarteslabs/descarteslabs-python	0	
+DevExpress/DevExtreme	0	
+didi/booster	0	
+digitalbazaar/forge	0	
+digitalocean/captainslog	0	
+digitalocean/ceph_exporter	0	
+DiscordApp/loqui	0	
+DiscordApp/manifold	1	mix test
+douban/FRDIntent	0	
+dowjones/react-cellblock	0	
+duosecurity/duo_python	0	
+eBayClassifiedsGroup/marathon_deploy	0	
+eclipse/paho.mqtt.java	0	
+ecomfe/htmlcs	0	
+ecomfe/Moye	0	
+ecomfe/zrender	1	jshint
+Eficent/stock-rma	0	
+elementary/switchboard-plug-pantheon-shell	0	
+EricssonResearch/spindump	0	
+esendex/esendex-php-sdk	0	
+espressif/esp32-at	0	
+espressif/ESP8266_RTOS_SDK	0	
+etsy/phpunit-extensions	0	
+etsy/TryLib	0	
+fex-team/swiper	0	
+Firebase/firebase-admin-java	0	
+Firebase/quickstart-js	0	
+FISCO-BCOS/FISCO-BCOS-DOC	0	
+flexport/mutation-sentinel	0	
+flipkart-incubator/flux	0	
+FormidableLabs/builder-react-component	0	
+FormidableLabs/radium-grid	0	
+freeipa/freeipa-container	1	Seccomp
+freerange/mocha	0	
+FrontEndART/SonarQube-plug-in	1	Sonar
+FStarLang/FStar	0	
+fullcontact/fullcontact-api-ruby	0	
+GaloisInc/parameterized-utils	0	
+GaloisInc/saw-script	0	
+geosolutions-it/geoserver-manager	0	
+getgauge/gauge	1	CodeQL
+go-faast/faast-portfolio	0	
+goodeggs/angular-cached-resource	0	
+goodeggs/grunt-mongo-migrations	0	
+googleapis/gax-php	0	
+googleapis/nodejs-speech	0	
+googleapis/nodejs-text-to-speech	0	
+GoogleCloudPlatform/click-to-deploy	0	
+GoogleContainerTools/jib	0	
+graalvm/SimpleLanguage	0	
+groupon/jesos	0	
+grpc-ecosystem/grpc-httpjson-transcoding	0	
+gvSIGAssociation/gvnix	0	
+headwirecom/peregrine-cms	0	
+helium/plumtree	0	
+hellofresh/goengine	0	
+hostnet/form-handler-bundle	0	
+IcaliaLabs/pager-api	0	
+Icinga/icingaweb2-module-businessprocess	0	
+idealo/imageatm	1	Terraform
+ifanrx/hydrogen-js-sdk	0	
+imgix/imgix-core-js	0	
+influxdata/influxdb-python	0	
+Intel/mavlink-router	0	
+intridea/green_onion	0	
+it-projects-llc/odoo-telegram	0	
+iuap-design/blog	0	
+iyzico/iyzipay-java	0	
+jbossdemocentral/coolstore-microservice	1	Dependabot
+Jigsaw-Code/outline-server	0	
+jolicode/JoliNotif	0	
+jpbetz/auger	0	
+JuliaComputing/Deprecations.jl	0	
+JuliaComputing/FemtoCleaner.jl	0	
+JuliaComputing/IndexedTables.jl	0	
+JustinBeckwith/gaxios	0	
+kaltura/kaltura-player-js	0	
+kaltura/playkit-js	0	
+Kitware/cumulus	0	
+Kitware/vtk-js	0	
+klarna/higher-order-components	1	Dependabot
+klaxalk/linux-setup	0	
+knoldus/playing-reactive-mongo	0	
+KnpLabs/ConsoleServiceProvider	0	
+KnpLabs/KnpGaufretteBundle	0	
+knutfrode/opendrift	0	
+krakenjs/cross-domain-utils	0	
+KurtPattyn/QtMqtt	0	
+la1k/flyby	0	
+LANL/CLAMR	0	
+LedgerHQ/ledger-live-common	0	
+LedgerHQ/ledger-u2f-javacard	0	
+libbpf/libbpf	1	Coverity
+lightbend/reactive-lib	0	
+linkedin/dexmaker	0	
+LLNL/RAJA	0	
+logzio/apollo	0	
+logzio/logzio-python-handler	0	
+luizbafilho/fusis	0	
+mackerelio/mackerel-agent	0	
+madedotcom/photon-pump	0	
+mailru/tarantool-authman	0	
+mapd/mapd-connector	0	
+mara/data-integration	0	
+materialsproject/custodian	0	
+mdbootstrap/bootstrap-material-design	0	
+mdn/kumascript	0	
+MediaMath/strand	0	
+MicroPyramid/django-mfa	0	
+MicroPyramid/django-payu	0	
+MicroPyramid/microsocial	0	
+Microsoft/app-store-vsts-extension	0	
+Microsoft/ApplicationInsights-Ruby	0	
+Microsoft/Availability-Monitor-for-Kafka	0	
+Microsoft/chart-parts	1	CodeQL, Dependabot
+Microsoft/ConversationLearner-UI	0	
+Microsoft/ntttcp-for-linux	0	
+Microsoft/PowerBI-visuals-NetworkNavigator	0	
+Microsoft/pxt-microbit	1	CodeQL
+Microsoft/Rapid-XAML-Toolkit	1	CodeQL
+Microsoft/tolerant-php-parser	1	phpstan
+Microsoft/TouchDevelop	0	
+Microsoft/TouchDevelop-backend	0	
+Microsoft/vscode-css-languageservice	1	CodeQL
+Microsoft/WhoisParsers	0	
+microsoftgraph/msgraph-sdk-android	0	
+Minio/minio	1	CodeQL
+mixi-inc/JavaScriptTraining	0	
+mlflow/mlflow	0	
+mopub/mopub-ios-sdk	0	
+modcluster/mod_cluster	1	Checkstyle
+moodlehq/moodle-docker	0	
+MOSEK/Polyopt.jl	0	
+moves-rwth/storm	0	
+mozilla-services/lua_sandbox_extensions	0	
+namshi/cuzzle	0	
+nats-io/asyncio-nats	0	
+nccgroup/featherduster	0	
+NervJS/at-ui-nerv	0	
+Netflix/dyno-queues	1	Sonatype
+Netflix/ember-nf-graph	0	
+Netflix/Nicobar	1	Sonatype
+Nexmo/nexmo-node	0	
+node-red/node-red-nodegen	0	
+npm/init-package-json	1	Dependabot
+npm/npme-installer	0	
+Nventive/uno.sourcegeneration	0	
+ocadotechnology/django-closuretree	0	
+okta/samples-nodejs-express-4	0	
+omise/omise-java	0	
+ONLYOFFICE/DocumentServer	0	
+ONTIO/ontology	0	
+openprocurement/openprocurement.api	0	
+opentok/learning-opentok-ios	0	
+opentok/opentok-react-native	0	
+OriginProtocol/company-website	0	
+OriginTrail/ot-node	0	
+osmlab/name-suggestion-index	0	
+oVirt/ovirt-engine-sdk	0	
+PacificBiosciences/FALCON-integrate	0	
+paritytech/parity-bridge	0	
+paritytech/parity-common	0	
+patternfly/angular-patternfly	1	Dependabot
+phw/peek	0	
+pivotal-cf/areas-of-contribution	0	
+pivotal-sprout/sprout-homebrew	0	
+pixelfusion/blueman	0	
+pmem/ndctl	0	
+pmorie/go-open-service-broker-client	0	
+Polymer/polymer-modulizer	0	
+PolymerElements/iron-form	1	Dependabot
+PolymerElements/iron-pages	1	Dependabot
+PolymerElements/paper-toast	1	Dependabot
+porscheinformatik/sonarqube-licensecheck	1	Sonar,SRC:CLR
+postgrespro/pg_variables	0	
+postmanlabs/swagger2-postman2	0	
+prestaconcept/PrestaSitemapBundle	1	PHP Security Checker
+pricingassistant/mongokat	0	
+pubnub/pubnub-angular2	1	SRC:CLR
+pubnub/unity	1	SRC:CLR
+pulp/crane	0	
+pulp/pulp_docker	0	
+pusher/pusher-websocket-swift	0	
+pycom/pycom-libraries	0	
+Qihoo360/nemo	0	
+rabbitmq/rabbitmq-amqp1.0	0	
+rabbitmq/rabbitmq-auth-backend-http	0	
+rabbitmq/rabbitmq-objc-client	0	
+rabix/composer	0	
+radixdlt/radixdlt-java	1	Sonar
+RadonDB/Xenon	0	
+railslove/birthday	0	
+railsware/capistrano-ci	0	
+rapid7/marionette.carpenter	0	
+rapid7/raptor-io	0	
+Ravenbrook/mps	0	
+rdiankov/openrave	0	
+RedisLabs/rejson-py	0	
+resin-io/resin-sdk	0	
+retest/recheck-web	1	Sonar
+rewe-digital/katana	1	Foodcritic, Chef
+rewe-digital/integration-patterns	0	
+rezozero/mixedfeed	1	PhPstan
+Rancher/rke	0	
+rangle/rangle-starter	0	
+ringmesh/ringmesh	0	
+roblox/Roact	0	
+ROBOTIS-GIT/turtlebot3_applications	0	
+root-project/root	0	
+Runnable/ponos	0	
+Runnable/scientist	0	
+salsify/goldiloader	1	Rubocop
+SAP/connect-openui5	1	Dependabot
+sassoftware/epdb	0	
+saucelabs/saucerest-java	0	
+saurabhnemade/react-twitter-embed	0	
+scala-exercises/scala-exercises	1	Sonatype
+seatgeek/docker-build-cacher	0	
+seatgeek/nomad-helper	0	
+Seravo/seravo-plugin	0	
+serby/uber-cache	0	
+SharePoint/PnP-JS-Core	0	
+silx-kit/fabio	0	
+sinergise/sentinelhub	0	
+skelcl/skelcl	0	
+SnowdogApps/magento2-vue-checkout	0	
+SnowdogApps/wombat	0	
+SonarQubeCommunity/sonar-build-breaker	1	Sonar
+SonarSource/sonarlint-cli	1	Sonar
+sourcegraph/javascript-typescript-langserver	1	Dependabot
+sourcegraph/syntaxhighlight	0	
+sourcegraph/vcsstore	0	
+spagobilabs/SpagoBI	0	
+spotify/async-google-pubsub-client	0	
+square/react-native-square-reader-sdk	0	
+square/sqeduler	0	
+src-d/enry	1	Sonatype
+status-im/status-network-token	0	
+stripe/bonsai	0	
+subutai-io/p2p	0	
+SuperMap/iClient-JavaScript	0	
+swisnl/laravel-graylog2	0	
+tableau/query-graphs	0	
+tableau/server-client-python	0	
+target/flottbot	0	
+target/grease	0	
+target/nix-fetchers	0	
+TarsCloud/TarsCpp	0	
+taxjar/taxjar-ruby	0	
+Teambition/swaggo	0	
+TeHikuMedia/nga-kupu	0	
+teltek/gst-plugin-ndi	0	
+tendenci/tendenci	0	
+tendermint/rust-abci	0	
+thefrontside/frontmacs	0	
+thm-projects/arsnova-mobile	0	
+TIBCOSoftware/bw6-plugin-maven	0	
+TIBCOSoftware/flogo-contrib	0	
+tmobile/casquatch	0	
+trailofbits/cb-multios	0	
+travis-ci/travis-support	0	
+travis-ci/travis-yml	0	
+Treeptik/cloudunit	0	
+trendmicro/serverless-survey-forms	1	Dependabot
+tsuru/tsuru-dashboard	0	
+tumblr/colossus	0	
+twitter/AnomalyDetection	0	
+twitter/chill	0	
+twitter/CocoaSPDY	0	
+typesafehub/activator-akka-stream-scala	0	
+typesafehub/mesos-spark-integration-tests	0	
+uber/h3-py	0	
+uber/luma.gl	0	
+unosquare/raspberryio	0	
+usdot-jpo-ode/jpo-ode	1	Sonar
+USGS-Astrogeology/isis3	0	
+valor-software/ng2-handsontable	0	
+vechain/thor-client-sdk4j	0	
+velvia/filo	0	
+viltgroup/minium	0	
+viromedia/virocore	0	
+voorhoede/lighthouse-security	1	Snyk
+warriorframework/warriorframework	1	Blackduck
+wazuh/wazuh-documentation	0	
+wdas/ptex	0	
+we45/ThreatPlaybook	0	
+WildDogTeam/demo-ios-danmu	0	
+wix/mutable	0	
+Wolox/express-js-bootstrap	1	Dependabot
+xenserver/xe-guest-utilities	0	
+xfiveco/generator-chisel	0	
+xwp/wp-foo-bar	0	
+Yalantis/DisplaySwitcher	0	
+Yalantis/Segmentio	0	
+Yelp/pyramid_zipkin	0	
+youzan/zent	0	
+yuantiku/YTKNetwork	0	
+yued-fe/YFE-BP	0	
+yWorks/svg2pdf.js	0	
+Z3Prover/z3	0	
+zalando/expan	0	
+zalando/grafter	0	
+zalando/riptide	0	
+zendesk/sdk_demo_app_android	0	
+zendesk/zendesk_apps_tools	1	SRC:CLR
+zhangchu/ko	0	

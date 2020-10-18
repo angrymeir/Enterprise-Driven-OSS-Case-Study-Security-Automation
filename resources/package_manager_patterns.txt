@@ -1,0 +1,30 @@
+apt install
+apt -y install
+apt reinstall
+apt -y reinstall
+apt update
+apt upgrade
+apt -y upgrade
+apt full-upgrade
+apt -y full-upgrade
+apt-get update
+apt-get upgrade
+apt-get -y upgrade
+apt-get install
+apt-get -y install
+apt-get reinstall
+apt-get -y reinstall
+apk add
+apk -y add
+npm install
+brew
+snap install
+snap -y install
+aptitude install
+aptitude -y install
+gem install
+gem update
+pip install
+pip3 install
+make install
+xcrun
