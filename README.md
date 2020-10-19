@@ -32,4 +32,4 @@ Results from the code of crawling, preprocessing and tool_usage_detection.
 3. Create GitHub personal access token and add to [01.crawl_ci_files.py](01.crawling/01.crawl_ci_files.py) and [03.crawl_characteristics.py](01.crawling/03.crawl_characteristics.py)
 4. Create Travis CI access token and add to [02.crawl_ci_logs.py](01.crawling/02.crawl_ci_logs.py)
 5. Start at [01.crawling/01.crawl_ci_files.py](01.crawling/01.crawl_ci_files.py) and run successively until [04.analysis/RQ3/02.languages.py](04.analysis/RQ3/02.languages.py).
-6. Results will either writen to the console or written to the results folder.
+6. Results will either be written to the console or to the results folder.
