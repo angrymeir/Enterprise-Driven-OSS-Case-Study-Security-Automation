@@ -33,3 +33,6 @@ Results from the code of crawling, preprocessing and tool_usage_detection.
 4. Create Travis CI access token and add to [02.crawl_ci_logs.py](01.crawling/02.crawl_ci_logs.py)
 5. Start at [01.crawling/01.crawl_ci_files.py](01.crawling/01.crawl_ci_files.py) and run successively until [04.analysis/RQ3/02.languages.py](04.analysis/RQ3/02.languages.py).
 6. Results will either be written to the console or to the results folder.
+
+If you want to start from scratch perform all steps from 1 to 6.  
+In case you just want to reproduce the results we got, we saved our results to the results directory. You can also rebuild the results by performing first performing step 1, and afterward running the scripts in [04.analysis](04.analysis/)
