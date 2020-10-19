@@ -6,23 +6,23 @@ This project contains the code and further resources for the paper *Enterprise-D
 ## Structure
 This repository is structured as followed:
 
-### crawling
+#### crawling
 Code for crawling CI files, log files and characteristics.
 
-### preprocessing
+#### preprocessing
 Code to filter and remove package manager/install instructions.
 
-### tool_usage_detection
+#### tool_usage_detection
 Code to detect security tools in CI files, log files and to aggregate findings.
 
-### resources
+#### resources
 Resources necessary to run the code. Contains 
 - list of security tools
 - package manager instructions
 - outcome of manual review
 - anonymized answers from maintainers
 
-### results
+#### results
 Results from the code of crawling, preprocessing and tool_usage_detection.
 
 ## How to Use
@@ -35,4 +35,4 @@ Results from the code of crawling, preprocessing and tool_usage_detection.
 6. Results will either be written to the console or to the results folder.
 
 If you want to start from scratch perform all steps from 1 to 6.  
-In case you just want to reproduce the results we got, we saved our results to the results directory. You can also rebuild the results by performing first performing step 1, and afterward running the scripts in [04.analysis](04.analysis/)
+In case you just want to reproduce the results we got, we saved our results to the [results directory](results/). You can also rebuild the results by first performing step 1, and afterward running the scripts in [04.analysis](04.analysis/)
