@@ -9,6 +9,9 @@ df = pd.read_csv('../../resources/manual_review.tsv', sep='\t')
 
 
 def aut_det_false_positives_negatives():
+    """
+    Determine the false positives and false negatives in direct comparison between manual and automatic review.
+    """
     ov_f_n = []
     counter = 0
     print("Obvious False positives")

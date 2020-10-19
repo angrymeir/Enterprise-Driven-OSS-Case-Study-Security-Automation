@@ -9,6 +9,7 @@ def authenticate(access_token):
     """
     Authenticate github api client.
 
+    :param access_token: https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token
     :return: github.Github
     """
     g = Github(access_token)
@@ -31,11 +32,15 @@ def crawl_characteristics(g, projects, project_stars={}, project_languages={}, p
     Crawl characteristics of projects.
     Characteristics:
     - Stars of project
-    - Topics of project
+    - Languages of project
     - Timespan of project, when it was created and when it was last updated
 
     :param g: github.Github
     :param projects: dict with project to CI services mapping
+    :param project_stars: dict maping project to stars, used if missing
+    :param project_languages: dict maping project to languages, used if missing
+    :param project_timespan: dict maping project to timespan, used if missing
+    :param missing: bool, used to crawl all projects that were missed due to ratelimit in the first run 
     :return: dict, mapping of github project to stars,
              dict, mapping of github project to languages,
              dict, mapping of github project to timespan

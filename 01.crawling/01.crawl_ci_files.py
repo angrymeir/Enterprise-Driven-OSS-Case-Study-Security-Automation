@@ -77,7 +77,6 @@ def save_ci_files(content, case, identifier, repo):
     :param case: string containing name of CI service
     :param identifier: string "owner/project"
     :param repo: github.Repository.Repository
-    :param results_path: string to store file
     :return: None
     """
     results_path = '../results/01.crawling/02.ci-files/' 
@@ -150,6 +149,8 @@ def manage_api_routine(df, g, project_status = {}, missing=False):
 
     :param df: pandas.Dataframe
     :param g: github.Github
+    :param project_status: dict with project to CI services mapping, used in combination with missing
+    :param missing: bool, used to crawl all projects that were missed due to ratelimit in the first run
     :return: dict with project to CI services mapping
     """
     if missing:

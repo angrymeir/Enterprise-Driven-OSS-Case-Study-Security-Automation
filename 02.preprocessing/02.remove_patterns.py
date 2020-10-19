@@ -98,7 +98,6 @@ def filter_proj(patt_in_file):
 
 def main():
     patterns = load_remove_patterns()
-    print(patterns)
     filter_proj(patterns)
 
 

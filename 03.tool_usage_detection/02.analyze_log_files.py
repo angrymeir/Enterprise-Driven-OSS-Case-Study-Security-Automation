@@ -31,6 +31,7 @@ def file_for_project(projects, cleaned):
 
 
     :param projects: list of project names
+    :param cleaned: bool, indicated whether to perform detection on cleaned log files or not
     :return: list of cleaned filenames
     """
     project_files = {}

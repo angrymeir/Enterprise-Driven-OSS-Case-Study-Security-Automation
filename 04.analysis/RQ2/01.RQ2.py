@@ -5,11 +5,17 @@ import numpy as np
 
 
 def load_project_security():
+    """
+    Load the mapping of projects to security tools.
+    """
     with open('../../results/03.tools_usage_detection/all_projects_security.json') as infile:
         return json.load(infile)
 
 
 def load_sec_patterns():
+    """
+    Load the mapping of security activities to security tools.
+    """
     with open('../../resources/security_patterns.json', 'r') as infile:
         return json.load(infile)
 
@@ -18,8 +24,10 @@ project_sec = load_project_security()
 security_act = load_sec_patterns()
 
 
-# Tools & Activities
 def visualize_tools(sec_projects):
+    """
+    Determine the number of projects that used a certain tool for all tools.
+    """
     tools = defaultdict(int)
     for _, val in sec_projects.items():
         for tool in val:

@@ -7,6 +7,12 @@ import datetime
 
 
 def authenticate(token):
+    """
+    Authentication to Travis CI
+
+    :param token: string, containing authentication toke for Travis CI
+    :return: string, dict
+    """
     base_url = "https://api.travis-ci.org"
     headers = {
         'Travis-API-Version': '3',
@@ -33,6 +39,8 @@ def crawl_files(projects, base_url, headers):
     For each project crawl log files if possible and store them.
 
     :param projects: list of project names
+    :param base_url: string, contains base url for Travis CI api
+    :param headers: dict, contains authentication headers for Travis CI api
     :return: dict, mapping project to log status
     """
     counter = 0

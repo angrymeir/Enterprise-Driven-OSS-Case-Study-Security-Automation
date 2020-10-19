@@ -5,16 +5,25 @@ import numpy as np
 
 
 def load_project_security():
+    """
+    Load the mapping of projects to security tools.
+    """
     with open('../../results/03.tools_usage_detection/all_projects_security.json', 'r') as infile:
         return json.load(infile)
 
 
 def load_sec_patterns():
+    """
+    Load the mapping of security activities to security tools.
+    """
     with open('../../resources/security_patterns.json', 'r') as infile:
         return json.load(infile)
 
 
 def load_timespan():
+    """
+    Load the mapping of projects to the time they were created and last updated.
+    """
     with open('../../results/01.crawling/05.characteristics/project_timespan.json', 'r') as infile:
         return json.load(infile)
 
@@ -24,10 +33,13 @@ security_act = load_sec_patterns()
 project_timespan = load_timespan()
 
 
-# Tools & Activities
-
-# Stars
 def map_sec_act_to_project(sec_projects):
+    """
+    Map security activities to projects.
+
+    :param sec_projects: dict, mapping of projects to security tools
+    :return: dict, mapping of projects to security activities
+    """
     mapping = {}
 
     for project, tools in sec_projects.items():
@@ -41,6 +53,12 @@ def map_sec_act_to_project(sec_projects):
 
 
 def map_stars_to_sec(mapping):
+    """
+    Map projects to stars and security tools.
+    
+    :param mapping: dict, mapping of projects to security activities
+    :return: dict, mapping project to number of security actvities and stars
+    """
     star_map = {}
     with open('../../results/01.crawling/05.characteristics/project_stars.json', 'r') as infile:
         stars_count = json.load(infile)
@@ -52,6 +70,11 @@ def map_stars_to_sec(mapping):
 
 
 def visualize_star_sec(mapping):
+    """
+    Visualize mapping of stars to projects performing security vs. projects not performing security.
+
+    :param mapping: dict, mapping project to number of security activities and stars
+    """
     plt.figure()
     zero_act = [val[1] for _, val in mapping.items() if val[0] == 0]
     one_act = [val[1] for _, val in mapping.items() if val[0] > 0]
@@ -78,6 +101,9 @@ def stars():
 
 # Time
 def timespan_maintained():
+    """
+    Visualize the number of years a projects is/has been maintained depending on whether it uses security or not.
+    """
     timespan_sec_mapping = defaultdict(list)
     for project, sec in project_sec.items():
         secs = len(sec) > 0
@@ -100,6 +126,9 @@ def timespan_maintained():
 
 
 def timespan_created():
+    """
+    Visualize the years a projects has been created in depending on whether it uses security or not.
+    """
     timespan_sec_mapping = defaultdict(list)
     for project, sec in project_sec.items():
         secs = len(sec) > 0
@@ -125,6 +154,9 @@ def timespan_created():
 
 
 def timespan_last_updated():
+    """
+    Visualize the years a projects has been lasted update in depending on whether it uses security or not.
+    """
     timespan_sec_mapping = defaultdict(list)
     for project, sec in project_sec.items():
         secs = len(sec) > 0
